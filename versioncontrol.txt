@@ -71,4 +71,8 @@ git log -p <commit_id>
 
 FORK
 
+git clone
 git add --all
+git remote remote add origin <link>
+git commit -m "any"
+git push origin main
